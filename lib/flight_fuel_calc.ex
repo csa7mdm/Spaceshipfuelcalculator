@@ -35,12 +35,4 @@ defmodule FlightFuelCalc do
     end
   end
 
-  # def hello do
-  #   IO.puts(calculate(28801, [[:launch, 9.807], [:land, 1.62], [:launch, 1.62], [:land, 9.807]])) #51898
-  #   IO.puts(calculate(14606, [[:launch, 9.807], [:land, 3.711], [:launch, 3.711], [:land, 9.807]])) #33388
-  #   IO.puts(calculate(75432, [[:launch, 9.807], [:land, 1.62], [:launch, 1.62], [:land, 3.711], [:launch, 3.711], [:land, 9.807]])) #212161
-
-  #   IO.puts(calc_iter_launch(28801, 9.807))
-  #   IO.puts(calc_iter_land(28801, 9.807))
-  # end
 end
